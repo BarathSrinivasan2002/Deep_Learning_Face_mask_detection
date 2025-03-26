@@ -1,5 +1,5 @@
 # 😷 Face Mask Detection using MobileNetV2
-This project implements a deep learning model for face mask detection using the MobileNetV3 architecture. It classifies images into three categories:
+This project implements a deep learning model for face mask detection using the MobileNetV2 architecture. It classifies images into three categories:
 
 - ✅ Wearing a mask correctly  
 - ❌ Not wearing a mask  
