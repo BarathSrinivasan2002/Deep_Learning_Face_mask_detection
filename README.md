@@ -90,5 +90,8 @@ pip install -r requirements.txt
    - `face_labels`: NumPy array of encoded labels  
 
 ---
+👤 Author
+Joan Suaverdez -https://github.com/jsuaverd
+Haasith Srinivasa - https://github.com/DankNub901
 
-Let me know if you'd like to add training instructions or model evaluation next!
+
