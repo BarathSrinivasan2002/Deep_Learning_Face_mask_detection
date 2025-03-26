@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 ---
 👤 Author
-Joan Suaverdez -https://github.com/jsuaverd
-Haasith Srinivasa - https://github.com/DankNub901
+ - Joan Suaverdez -https://github.com/jsuaverd
+ - Haasith Srinivasa - https://github.com/DankNub901
 
 
