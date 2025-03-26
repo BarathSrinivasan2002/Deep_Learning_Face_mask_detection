@@ -15,7 +15,7 @@ Create and activate your virtual environment using one of the following methods:
 
 ```bash
 conda create --name deepenv python=3.9 
-conda activate face-mask-detection
+conda activate deepenv
 pip install -r requirements.txt
 ```
 
