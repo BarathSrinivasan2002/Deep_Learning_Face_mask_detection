@@ -52,7 +52,9 @@ For each image:
 - Resize to `224x224`
 - Convert to array with `img_to_array()`
 - Normalize using `preprocess_input()`
-
+### 3.5 Preprocess Pickle File
+- Load and run the preprocess_pipeline.ipynb
+- Load the pickle file and use the preprocessed data to train the model
 ### 4. Label Encoding  
 Convert string labels to numerical format:
 
